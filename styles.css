@@ -29,7 +29,7 @@ body {
 }
 
 .bottom-text {
-  bottom: 40%;
+  bottom: 20%;
 }
 
 .line {
@@ -40,7 +40,7 @@ body {
 
 .line2 {
   font-size: 90px;
-  margin: 0px 0;
+  margin: 10px 0;
   line-height: 1.9; /* Adjust line height for better readability */
 }
 
