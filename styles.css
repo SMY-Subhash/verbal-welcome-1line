@@ -44,6 +44,11 @@ body {
   line-height: 1.9; /* Adjust line height for better readability */
 }
 
+.line3 {
+  font-size: 90px;
+  margin: 15px 0;
+  line-height: 1.9; /* Adjust line height for better readability */
+}
 
 .name,
 .designation {
